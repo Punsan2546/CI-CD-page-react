@@ -26,6 +26,10 @@ jobs:
 
       - name: Debug build directory
         run: ls -la ./dist
+      - name: Debug Node.js version
+        run: node -v
+      - name: Debug Build Process
+        run: npm run build
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
