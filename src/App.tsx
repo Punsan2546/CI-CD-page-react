@@ -5,6 +5,7 @@ import "./App.css";
 function App() {
   return (
     <>
+    //homepage demo
       <div className="min-h-screen bg-gray-100 flex flex-col items-center justify-center">
         {/* Header Section */}
         <header className="bg-blue-600 w-full py-4 shadow-md">
