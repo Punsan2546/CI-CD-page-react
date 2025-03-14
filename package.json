@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Punsan2546.github.io/CI-CD-page-react",
+  "homepage": "https://punsan2546.github.io/CI-CD-page-react/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
