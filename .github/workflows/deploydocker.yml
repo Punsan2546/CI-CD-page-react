@@ -24,7 +24,7 @@ jobs:
       - name: Build and push Docker image
         uses: mr-smithers-excellent/docker-build-push@v6
         with:
-          image: CI-CD-page-react # ไม่ต้องใส่ naruapon ซ้ำ
+          image: ci-cd-page-react # ไม่ต้องใส่ naruapon ซ้ำ
           registry: ghcr.io/punsano26
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
