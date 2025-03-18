@@ -10,7 +10,7 @@ function App() {
         {/* Header Section */}
         <header className="bg-blue-600 w-full py-4 shadow-md">
           <h1 className="text-white text-2xl font-bold text-center">
-            ระบบเยี่ยมบ้าน โรงเรียนมัธยม โหล
+            ระบบเยี่ยมบ้าน โรงเรียนมัธยม x
           </h1>
         </header>
 
