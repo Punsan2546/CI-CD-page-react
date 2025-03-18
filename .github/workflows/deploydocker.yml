@@ -20,7 +20,7 @@ jobs:
 
       - name: Verify extracted tag
         run: echo "Using TAG_NAME=${{ env.TAG_NAME }}"
-#gg
+#ggfffff
       - name: Build and push Docker image
         uses: mr-smithers-excellent/docker-build-push@v6
         with:
